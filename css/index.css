@@ -63,7 +63,7 @@ button {
 }
 
 .hero-content {
-  /* display: flex; */
+  display: flex;
   flex-direction: row;
   block-size: 768px;
   align-items: center;
